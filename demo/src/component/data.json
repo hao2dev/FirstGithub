@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Phan Long",
+        "tel": "090 8888 888",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Hữu Hào",
+        "tel": "090 6666 888",
+        "permission": 1
+    },
+    {
+        "id": 3,
+        "name": "Hào Hào",
+        "tel": "090 5555 888",
+        "permission": 1
+    },
+    {
+        "id": 4,
+        "name": "Phan Phan",
+        "tel": "090 7777 888",
+        "permission": 2
+    },
+    {
+        "id": 5,
+        "name": "Long Long",
+        "tel": "090 9999 888",
+        "permission": 3
+    },
+    {
+        "id": 6,
+        "name": "Long Fen",
+        "tel": "090 9999 888",
+        "permission": 3
+    }
+]
